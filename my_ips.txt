@@ -1920,3 +1920,4 @@
 170.64.238.62 Brute Force IP
 205.185.113.189 Brute Force IP
 209.38.21.76 Brute Force IP
+206.189.149.86 IP_Malicious
