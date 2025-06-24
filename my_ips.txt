@@ -3754,3 +3754,5 @@
 202.157.184.38 Malicious Activity
 152.42.191.87 Malicious Activity
 190.198.27.4 Malicious Activity
+74.113.97.82 Malicious Activity
+68.111.103.135 Malicious Activity
