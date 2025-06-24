@@ -57,7 +57,6 @@
 156.146.56.136 IP_Malicious
 180.241.242.106 IP_Malicious
 138.197.177.111 IP_Malicious
-36.91.27.142 IP_Malicious
 85.227.85.29 IP_Malicious
 139.99.62.220 IP_Malicious
 45.95.169.184 IP_Malicious
