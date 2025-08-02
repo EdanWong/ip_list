@@ -8683,5 +8683,4 @@
 50.118.166.184 Malicious Activity
 64.237.212.143 Malicious Activity
 66.94.97.224 Malicious Activity
-8.132.0.201 Malicious Activity
 8.219.120.232 Malicious Activity
