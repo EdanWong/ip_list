@@ -8776,5 +8776,6 @@
 47.83.143.113 Malicious Activity
 64.135.113.139 Malicious Activity
 68.183.225.228 Malicious Activity
-20.38.45.101 RDP Brute Force
+20.38.45.101 RDP Activity
 134.199.193.142 SSH Brute Force
+139.135.50.22 RDP Activity
