@@ -9621,3 +9621,4 @@
 77.83.240.47 SSH Brute Force
 8.219.155.66 SSH Brute Force
 8.222.198.33 SSH Brute Force
+194.180.49.18 Anomaly RDP
