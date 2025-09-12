@@ -12147,3 +12147,10 @@
 91.196.152.189 Malicious Activity
 91.196.152.218 Malicious Activity
 91.196.152.39 Malicious Activity
+94.154.35.154 Malicious Activity
+180.191.40.174 Malicious Activity
+89.116.20.194 Malicious Activity
+14.1.105.91 Malicious Activity
+178.16.55.224 Malicious Activity
+185.198.234.215 Malicious Activity
+175.107.1.205 Malicious Activity
