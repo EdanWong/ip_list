@@ -16220,9 +16220,3 @@
 85.226.155.235 SSH Brute Force
 91.208.109.21 SSH Brute Force
 94.226.235.222 SSH Brute Force
-103.106.228.35 Malicious Activity
-147.124.215.35 Malicious Activity
-18.192.126.68 Malicious Activity
-2.50.7.78 Malicious Activity
-94.26.88.53 Malicious Activity
-94.26.88.54 Malicious Activity
