@@ -32465,8 +32465,5 @@
 121.127.34.151 Malicious Activity
 178.128.211.16 Malicious Activity
 91.200.220.143 Malicious Activity
-1.9.6.20 Malicious Activity
-1.9.7.20 Malicious Activity
 34.106.128.81 Malicious Activity
-1.4.3.3 Malicious Activity
 192.15.8.96 Malicious Activity
