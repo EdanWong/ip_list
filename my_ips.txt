@@ -33936,5 +33936,14 @@
 160.187.246.150 Malicious Activity
 202.134.0.10 Remote Access Malicious
 118.98.44.10 Remote Access Malicious
-171.25.193.9 Malicious Activity
-57.129.18.204 Malicious Activity
+171.25.193.9 TLS TOR Malicious Activity
+57.129.18.204 TLS TOR Malicious Activity
+51.68.185.82 TLS TOR Malicious Activity
+57.131.24.118 TLS TOR Malicious Activity
+213.239.215.221 TLS TOR Malicious Activity
+185.132.53.121 TLS TOR Malicious Activity
+193.189.100.197 TLS TOR Malicious Activity
+162.19.169.173 TLS TOR Malicious Activity
+192.42.116.219 TLS TOR Malicious Activity
+51.195.118.232 TLS TOR Malicious Activity
+157.245.204.205 Malicious Activity
