@@ -34283,6 +34283,7 @@
 51.222.43.134 Malicious Activity (functions3.ultraviewer.net)
 124.158.6.97 Malicious Activity (functions3.ultraviewer.net)
 146.59.253.24 Malicious Activity (functions3.ultraviewer.net)
+125.212.201.18 Malicious Activity (functions3.ultraviewer.net)
 37.252.244.142 Malicious Activity (router8.teamviewer.com)
 144.208.225.180 ID-JKT-ANX-R001.router.teamviewer.com
 188.172.201.134 HK-HKG-ANX-R003.router.teamviewer.com
