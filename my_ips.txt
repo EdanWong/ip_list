@@ -34289,3 +34289,5 @@
 188.172.201.134 HK-HKG-ANX-R003.router.teamviewer.com
 213.227.184.140 IN-DEL-ANX-R009.router.teamviewer.com
 217.146.12.137 	IN-MUM-ANX-R006.router.teamviewer.com
+31.58.58.212 Malicious Activity
+144.31.252.116 Malicious Activity
