@@ -33213,7 +33213,7 @@
 14.192.214.20 Malicious Activity
 14.33.73.40 Malicious Activity
 142.171.149.149 Malicious Activity
-144.208.224.168 Malicious Activity
+144.208.224.168 router.teamviewer.com
 145.239.8.179 Malicious Activity
 146.120.74.245 Malicious Activity
 148.251.83.214 Malicious Activity
@@ -33250,7 +33250,7 @@
 182.8.97.106 Malicious Activity
 183.30.222.49 Malicious Activity
 187.137.148.172 Malicious Activity
-188.172.208.139 Malicious Activity
+188.172.208.139 router.teamviewer.com
 189.121.93.141 Malicious Activity
 189.139.233.30 Malicious Activity
 189.162.166.112 Malicious Activity
@@ -33274,19 +33274,19 @@
 31.162.103.222 Malicious Activity
 31.170.171.135 Malicious Activity
 34.111.175.102 Malicious Activity
-34.151.74.134 Malicious Activity
-34.64.34.68 Malicious Activity
-34.64.34.71 Malicious Activity
-34.64.34.72 Malicious Activity
-34.81.162.4 Malicious Activity
+34.151.74.134 router.teamviewer.com
+34.64.34.68 router.teamviewer.com
+34.64.34.71 router.teamviewer.com
+34.64.34.72 router.teamviewer.com
+34.81.162.4 router.teamviewer.com
 36.64.1.35 Malicious Activity
 36.71.149.136 Malicious Activity
 36.74.110.159 Malicious Activity
 36.93.123.242 Malicious Activity
 36.93.167.103 Malicious Activity
 37.214.57.211 Malicious Activity
-37.252.244.135 Malicious Activity
-37.252.244.145 Malicious Activity
+37.252.244.135 router.teamviewer.com
+37.252.244.145 router.teamviewer.com
 37.46.240.221 Malicious Activity
 37.57.24.120 Malicious Activity
 37.79.142.36 Malicious Activity
