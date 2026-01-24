@@ -34425,9 +34425,6 @@
 147.185.132.118 Malicious Activity
 79.124.60.250 RDP Brute Force
 125.166.12.161 Malicious Activity
-139.162.3.144 Malicious Activity
-80.67.167.81 Malicious Activity
-172.232.232.169 Malicious Activity
 152.42.182.91 Malicious Activity
 45.126.187.4 Malicious Activity
 45.66.35.34 Malicious Activity
