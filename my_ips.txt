@@ -35154,3 +35154,7 @@
 91.132.144.59 TLS possible TOR SSL traffic
 94.16.114.231 TLS possible TOR SSL traffic
 95.216.202.181 TLS possible TOR SSL traffic
+68.183.90.120 Malicious Activity (STUN Binding Response)
+205.147.105.30 Malicious Activity (STUN Binding Response)
+172.237.72.43 Malicious Activity (STUN Binding Response)
+172.237.72.8 Malicious Activity (STUN Binding Response)
