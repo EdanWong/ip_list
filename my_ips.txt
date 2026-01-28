@@ -35160,3 +35160,4 @@
 172.237.72.8 Malicious Activity (STUN Binding Response)
 104.28.161.29 Malicious Activity
 74.82.62.135 Malicious Activity
+45.92.229.34 Malicious Activity
