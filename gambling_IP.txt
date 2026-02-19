@@ -75,3 +75,4 @@
 104.17.110.63	www.abcislands.ag
 104.19.177.128 action24.com
 104.21.88.135	actionbets.com
+104.20.3.128 freedomhouse.org
