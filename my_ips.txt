@@ -37240,11 +37240,7 @@
 170.64.146.38 SSH Brute Force
 170.64.234.27 SSH Brute Force
 139.59.101.215 Malicious Activity
-64.62.156.208 Malicious Activity
-64.62.156.205 Malicious Activity
 65.49.20.95 Malicious Activity
 87.227.168.72 Malicious Activity
 64.62.156.211 Malicious Activity
-64.62.156.164 Malicious Activity
 74.82.47.55 Malicious Activity
-64.62.156.148 Malicious Activity
