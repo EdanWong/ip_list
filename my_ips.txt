@@ -32437,3 +32437,8 @@
 9.234.8.52 Malicious Activity
 104.248.153.117 SSH Brute Force
 165.245.190.81 Malicious Activity
+139.59.225.222 Malicious Activity
+45.37.17.61 Malicious Activity
+98.209.166.133 Malicious Activity
+95.107.174.53 Malicious Activity
+196.77.101.188 Malicious Activity
