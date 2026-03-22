@@ -1,7 +1,7 @@
 # =====================================
 # OpenCTI Confirmed Threat Blocklist
 # =====================================
-# Generated  : 2026-03-22 12:01:10.072425
+# Generated  : 2026-03-22 12:23:39.686560
 # Total Block: 4094 IP
 # Whitelisted: 9 IP
 # Source     : Kibana Alerts
