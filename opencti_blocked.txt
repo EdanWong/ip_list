@@ -1,11 +1,11 @@
 # =====================================
 # OpenCTI Confirmed Threat Blocklist
 # =====================================
-# Generated  : 2026-03-22 12:25:50.427248
+# Generated  : 2026-03-22 12:55:33.917626
 # Total Block: 4094 IP
 # Whitelisted: 9 IP
-# Source     : Kibana Alerts
-#              OpenCTI + Zeek confirmed
+# Source     : Alerts
+#              OpenCTI + confirmed
 # =====================================
 #
 # [CRITICAL] - - -
