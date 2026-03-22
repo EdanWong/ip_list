@@ -1,8 +1,8 @@
 # =====================================
 # OpenCTI Confirmed Threat Blocklist
 # =====================================
-# Generated  : 2026-03-22 13:31:29.328499
-# Total Block: 4098 IP
+# Generated  : 2026-03-22 14:01:56.603311
+# Total Block: 4101 IP
 # Whitelisted: 9 IP
 # Source     : Alerts
 #              OpenCTI + confirmed
@@ -1356,6 +1356,8 @@
 152.32.206.35
 # [CRITICAL] - - -
 152.32.206.38
+# [CRITICAL] - - -
+152.32.206.51
 # [CRITICAL] - - -
 152.32.206.74
 # [CRITICAL] - - -
@@ -4883,6 +4885,8 @@
 # [CRITICAL] - - -
 223.240.94.168
 # [CRITICAL] - - -
+223.252.34.39
+# [CRITICAL] - - -
 223.255.177.204
 # [CRITICAL] - - -
 23.129.64.155
@@ -5246,6 +5250,8 @@
 43.135.138.128
 # [CRITICAL] - - -
 43.135.144.126
+# [CRITICAL] - - -
+43.135.145.73
 # [CRITICAL] - - -
 43.135.182.43
 # [CRITICAL] - - -
