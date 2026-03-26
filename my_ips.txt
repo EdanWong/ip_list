@@ -296,7 +296,6 @@
 45.142.154.63 Malicious Activity
 45.142.154.64 Malicious Activity
 45.142.154.66 Malicious Activity
-45.149.3.21 Malicious Activity
 45.15.226.81 Malicious Activity
 45.153.34.156 Malicious Activity
 45.159.112.142 Malicious Activity
@@ -3454,7 +3453,6 @@
 180.76.183.146 Malicious Activity
 180.76.243.137 Malicious Activity
 180.76.250.117 Malicious Activity
-180.76.52.82 Malicious Activity
 180.76.53.187 Malicious Activity
 180.76.97.48 Malicious Activity
 180.93.136.118 Malicious Activity
@@ -31771,3 +31769,19 @@
 85.217.140.9 Malicious Activity
 88.214.20.143 Malicious Activity
 94.183.168.5 Malicious Activity
+116.212.132.63 Malicious Activity
+137.184.126.169 Malicious Activity
+152.42.175.77 Malicious Activity
+152.42.195.70 Malicious Activity
+162.243.14.202 Malicious Activity
+164.92.72.181 Malicious Activity
+165.22.153.128 Malicious Activity
+182.8.158.118 Malicious Activity
+189.34.154.241 Malicious Activity
+24.199.103.213 Malicious Activity
+45.167.24.200 Malicious Activity
+47.77.178.77 Malicious Activity
+47.85.177.208 Malicious Activity
+47.85.58.130 Malicious Activity
+54.152.67.23 Malicious Activity
+70.153.26.20 Malicious Activity
