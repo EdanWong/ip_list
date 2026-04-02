@@ -897,4 +897,3 @@
 209.38.59.99 SSH Brute Force
 160.155.243.150 SSH Brute Force
 104.131.173.56 Malicious Activity 
-13.89.179.9 C&C Remote Connection
