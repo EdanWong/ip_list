@@ -52,7 +52,6 @@
 154.197.56.163 Malicious Activity
 164.68.104.116 Malicious Activity
 172.110.223.104 Malicious Activity
-172.110.223.37 Malicious Activity
 172.110.223.52 Malicious Activity
 172.110.223.54 Malicious Activity
 185.226.197.45 Malicious Activity
@@ -116,10 +115,8 @@
 103.226.139.7 SSH Scanning
 103.63.25.109 SSH Scanning
 103.76.120.204 SSH Scanning
-103.76.120.225 SSH Scanning
 103.78.171.114 SSH Scanning
 103.82.27.19 SSH Scanning
-104.168.4.152 SSH Scanning
 105.247.69.196 SSH Scanning
 105.96.13.6 SSH Scanning
 106.54.11.66 SSH Scanning
@@ -170,7 +167,6 @@
 183.234.116.157 SSH Scanning
 183.91.186.36 SSH Scanning
 185.196.10.248 SSH Scanning
-185.196.11.54 SSH Scanning
 185.73.84.45 SSH Scanning
 186.226.207.233 SSH Scanning
 186.68.83.104 SSH Scanning
@@ -185,7 +181,6 @@
 202.165.22.58 SSH Scanning
 202.165.29.119 SSH Scanning
 202.79.29.108 SSH Scanning
-208.69.84.112 SSH Scanning
 209.38.136.74 SSH Scanning
 209.46.120.16 SSH Scanning
 211.186.79.173 SSH Scanning
@@ -203,7 +198,6 @@
 43.157.209.93 SSH Scanning
 43.164.77.109 SSH Scanning
 45.129.185.7 SSH Scanning
-45.64.74.51 SSH Scanning
 46.101.74.113 SSH Scanning
 46.29.238.171 SSH Scanning
 46.37.66.191 SSH Scanning
@@ -262,7 +256,6 @@
 13.222.38.67 Malicious Activity
 154.125.235.217 Malicious Activity
 157.15.40.57 Malicious Activity
-161.178.139.119 Malicious Activity
 166.108.204.233 Malicious Activity
 167.71.201.233 Malicious Activity
 167.71.22.47 Malicious Activity
@@ -298,7 +291,6 @@
 165.245.186.29 Malicious Activity
 172.105.64.199 Malicious Activity
 172.188.24.60 Malicious Activity
-185.100.87.136 Malicious Activity
 185.246.116.144 Malicious Activity
 188.92.79.113 Malicious Activity
 192.46.237.62 Malicious Activity
@@ -370,7 +362,6 @@
 45.132.19.23 SSH Scanning
 47.242.52.32 SSH Scanning
 49.228.88.94 SSH Scanning
-71.6.199.87 SSH Scanning
 78.138.168.46 SSH Scanning
 79.168.139.28 SSH Scanning
 85.217.140.44 SSH Scanning
@@ -895,9 +886,7 @@
 78.153.139.68 SSH Scanning
 209.38.59.102 SSH Brute Force
 209.38.59.99 SSH Brute Force
-160.155.243.150 SSH Brute Force
 104.131.173.56 Malicious Activity 
-101.168.20.5 SSH Brute Force
 102.209.111.79 Malicious Activity
 41.82.143.137 Malicious Activity
 37.48.254.120 Malicious Activity
@@ -905,3 +894,12 @@
 69.255.220.216 Malicious Activity
 131.150.212.8 Malicious Activity
 41.73.99.126 Malicious Activity
+103.130.63.254 SSH Brute Force
+103.177.177.237 SSH Brute Force
+103.178.146.210 SSH Brute Force
+139.59.243.202 SSH Brute Force
+143.198.213.6 SSH Brute Force
+36.64.89.252 SSH Brute Force
+50.123.92.130 SSH Brute Force
+79.108.225.156 SSH Brute Force
+82.221.139.13 SSH Brute Force
