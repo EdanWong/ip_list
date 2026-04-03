@@ -920,3 +920,4 @@
 197.15.109.7 | Malicious Activity
 67.61.4.103 | Malicious Activity
 73.26.175.80 | Malicious Activity
+104.18.27.125 | Malicious Activity (earnapp)
