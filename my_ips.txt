@@ -48,4 +48,4 @@
 108.181.20.35 | Malicious Activity
 139.59.217.230 | Malicious Activity
 74.83.112.191 | Malicious Activity
-178.128.209.14 | d78vg2mmqgvc8673h850qxyr7fmr7bixx[.]oast[.]me
+178.128.209.14 | xxxxx[.]oast[.]me
