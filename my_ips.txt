@@ -58,3 +58,4 @@
 178.128.210.172 | d79io7a6sujkcrh8r6h056qt64hrtdojr[.]oast[.]live
 182.9.33.175 | Malicious Activity
 65.75.201.194 | Malicious Activity
+134.22.137.71 | Malicious Activity
