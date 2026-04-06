@@ -72,3 +72,4 @@
 122.129.109.25 | Malicious Activity
 24.177.94.37 | Malicious Activity
 162.158.170.86 | Malicious Activity
+136.114.10.21 | Malicious Activity
