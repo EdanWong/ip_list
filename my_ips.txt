@@ -84,3 +84,4 @@
 129.212.209.250 | Malicious Activity
 102.212.20.162 | Malicious Activity
 176.65.139.34 | Malicious Activity
+206.189.156.69 | d7ajhl7lqhf88m6145cgzf6ua3uucaukt[.]oast[.]fun
