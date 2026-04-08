@@ -96,3 +96,4 @@
 151.101.1.224 | www[.]etsy[.]com
 162.144.4.167 | Slot Gacor IP
 139.59.96.36 | Malicious Activity
+202.182.53.29 | Malicious Activity
