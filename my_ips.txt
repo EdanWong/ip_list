@@ -135,3 +135,4 @@
 188.114.96.3 | solevisible[.]com
 92.223.116.254 | Malicious Activity
 146.190.85.167 | Malicious Activity
+41.139.149.241 | Malicious Activity
