@@ -124,3 +124,5 @@
 205.169.39.71 | Malicious Activity
 165.73.182.123 | Malicious Activity
 104.21.57.27 | solevisible[.]com
+172.67.204.213 | Slot Gacor IP
+104.21.77.55 | Slot Gacor IP
