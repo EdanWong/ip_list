@@ -129,3 +129,4 @@
 104.26.15.72 | coronatracker[.]com
 104.21.47.9 | Malicious IP
 172.67.169.173 | Malicious IP
+172.67.73.26 | coronatracker[.]com
