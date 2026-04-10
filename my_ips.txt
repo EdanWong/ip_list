@@ -127,3 +127,5 @@
 172.67.204.213 | Slot Gacor IP
 104.21.77.55 | Slot Gacor IP
 104.26.15.72 | coronatracker[.]com
+104.21.47.9 | Malicious IP
+172.67.169.173 | Malicious IP
