@@ -131,3 +131,5 @@
 172.67.169.173 | Malicious IP
 172.67.73.26 | coronatracker[.]com
 172.67.158.190 | solevisible[.]com
+188.114.97.3 | solevisible[.]com
+188.114.96.3 | solevisible[.]com
