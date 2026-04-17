@@ -176,3 +176,4 @@
 196.218.108.51 | Malicious Activity
 172.237.69.177 | Malicious Activity (WSU)
 185.30.145.90 | Malicious Activity
+24.95.137.46 | Malicious Activity
