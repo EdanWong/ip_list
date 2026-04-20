@@ -209,3 +209,4 @@
 121.196.236.254 | challenge[.]rivers[.]chaitin[.]cn
 45.61.134.46 | Malicious Activity
 165.22.48.61 | Malicious Activity
+93.185.162.144 | Malicious Activity
