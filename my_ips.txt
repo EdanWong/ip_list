@@ -206,3 +206,4 @@
 172.67.174.146 | hxbdoor[.]one
 212.132.98.170 | i[.]gs[.]thc[.]org
 152.53.173.29 | p[.]gs[.]thc[.]org
+121.196.236.254 | challenge[.]rivers[.]chaitin[.]cn
