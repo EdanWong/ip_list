@@ -200,3 +200,8 @@
 98.97.49.29 | Malicious Activity
 170.64.223.52 | Malicious Activity
 37.48.254.120 | Malicious Link IP
+104.21.56.202 | walawe[.]club
+172.67.187.219 | walawe[.]club
+104.21.40.20 | hxbdoor[.]one
+172.67.174.146 | hxbdoor[.]one
+212.132.98.170 | i[.]gs[.]thc[.]org
