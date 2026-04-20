@@ -207,3 +207,4 @@
 212.132.98.170 | i[.]gs[.]thc[.]org
 152.53.173.29 | p[.]gs[.]thc[.]org
 121.196.236.254 | challenge[.]rivers[.]chaitin[.]cn
+45.61.134.46 | Malicious Activity
