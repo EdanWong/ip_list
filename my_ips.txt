@@ -266,3 +266,6 @@
 222.252.31.106 | SSH Brute Force
 172.238.47.12 | Malicious Activity
 204.197.172.20 | Malicious Link IP qna[.]rexo[.]top
+134.199.171.93 | Malicious Activity
+134.199.149.216 | Malicious Activity
+168.144.96.99 | Malicious Activity
