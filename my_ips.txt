@@ -316,3 +316,5 @@
 93.185.162.142 | Malicious Activity
 20.29.56.247 | Malicious Activity
 134.185.91.77 | Malicious Activity
+204.152.192.51 | Malicious Activity
+131.107.255.255 | dns[.]msftncsi[.]com
