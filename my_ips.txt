@@ -320,3 +320,4 @@
 131.107.255.255 | dns[.]msftncsi[.]com
 52.91.1.143 | SSH Brute Force
 98.115.32.221 | Malicious Activity
+150.241.115.78 | SSH Brute Force
