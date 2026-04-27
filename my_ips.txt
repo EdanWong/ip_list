@@ -379,3 +379,8 @@
 157.230.39.33 | Malicious Activity
 40.76.116.231 | Malicious Activity
 20.64.105.19 | Malicious Activity
+20.221.72.102 | Malicious Activity
+20.65.194.174 | Malicious Activity
+20.84.61.38 | Malicious Activity
+54.226.154.2 | SSH Brute Force
+174.138.17.17 | Malicious Activity
