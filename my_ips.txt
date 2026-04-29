@@ -430,4 +430,3 @@
 104.36.21.137 | SSH Brute Force
 158.69.0.76 | SSH Brute Force
 64.225.78.132 | SSH Brute Force
-36.83.113.142 | 36.83.113.142
