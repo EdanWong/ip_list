@@ -466,3 +466,4 @@
 106.75.246.174 | SSH Brute Force
 20.163.2.42 | Malicious Activity
 178.128.16.97 | Malicious Link IP
+20.29.56.1 | Malicious Activity
