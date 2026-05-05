@@ -475,3 +475,4 @@
 96.62.228.101 | Malicious Activity
 20.65.194.167 | Malicious Activity
 216.25.89.83 | Malicious Activity
+200.13.192.104 | SSH Brute Force
