@@ -492,3 +492,4 @@
 72.9.118.51 | SSH Brute Force
 47.241.31.252 | vanced[.]pro
 45.130.203.193 | Malicious Activity
+167.71.218.241 | Malicious Activity
