@@ -493,3 +493,4 @@
 47.241.31.252 | vanced[.]pro
 45.130.203.193 | Malicious Activity
 167.71.218.241 | Malicious Activity
+45.126.43.35 | Malicious Activity
