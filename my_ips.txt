@@ -487,3 +487,4 @@
 64.225.49.218 | Malicious Link IP
 103.77.106.200 | Malicious Activity
 34.42.211.182 | Malicious Activity
+142.248.80.72 | Malicious Activity
