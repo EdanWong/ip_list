@@ -564,3 +564,7 @@
 34.106.207.117 | Malicious Activity
 158.120.255.246 | Malicious Activity
 40.119.41.94 | Malicious Activity
+34.106.227.62 | Malicious Activity
+35.237.193.182 | Malicious Activity
+157.245.115.190 | Malicious Activity
+207.180.19.106 | Malicious Activity
