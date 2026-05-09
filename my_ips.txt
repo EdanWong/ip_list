@@ -585,3 +585,7 @@
 84.17.38.230 | earnapp[.]com
 169.150.207.215 | earnapp[.]com
 84.17.38.232 | earnapp[.]com
+159.203.120.106 | Malicious Activity
+185.200.116.67 | Malicious Activity
+38.135.24.223 | Malicious Activity
+87.120.93.91 | Malicious Activity
