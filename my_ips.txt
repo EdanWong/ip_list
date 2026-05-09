@@ -572,3 +572,16 @@
 161.35.53.233 | Malicious Activity
 35.203.178.80 | Malicious Activity
 67.78.162.141 | Malicious Activity
+84.17.38.231 | earnapp[.]com
+169.150.207.216 | earnapp[.]com
+84.17.38.228 | earnapp[.]com
+84.17.38.229 | earnapp[.]com
+89.187.162.242 | earnapp[.]com
+84.17.38.227 | earnapp[.]com
+79.127.213.217 | earnapp[.]com
+79.127.213.216 | earnapp[.]com
+169.150.207.212 | earnapp[.]com
+169.150.207.217 | earnapp[.]com
+84.17.38.230 | earnapp[.]com
+169.150.207.215 | earnapp[.]com
+84.17.38.232 | earnapp[.]com
