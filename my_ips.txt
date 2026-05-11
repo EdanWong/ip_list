@@ -654,3 +654,4 @@
 34.85.201.235 | Malicious Activity
 136.107.24.183 | Malicious Activity
 70.34.243.236 | ransomware-c2[.]com
+136.107.24.59 | Malicious Activity
