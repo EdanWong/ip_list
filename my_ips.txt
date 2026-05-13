@@ -700,3 +700,4 @@
 216.73.163.215 | Malicious Activity
 88.223.87.247 | thecloakanddagger[.]co[.]uk
 34.83.75.5 | Malicious Activity
+45.33.12.122 | Malicious Activity
