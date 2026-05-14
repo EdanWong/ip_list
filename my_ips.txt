@@ -757,3 +757,4 @@
 45.33.14.197 | Malicious Activity
 34.125.252.181 | Malicious Activity
 34.106.185.212 | Malicious Activity
+34.21.152.54 | Malicious Activity
