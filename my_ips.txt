@@ -773,3 +773,4 @@
 8.230.106.13 | Malicious Activity
 35.240.202.147 | Malicious Activity
 8.230.104.211 | Malicious Activity
+34.118.196.138 | Malicious Activity
