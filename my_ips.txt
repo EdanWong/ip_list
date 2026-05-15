@@ -799,3 +799,4 @@
 96.62.228.103 | Malicious Activity
 35.199.10.192 | Malicious Activity
 174.138.41.67 | Malicious Activity
+34.50.66.138 | Malicious Activity
