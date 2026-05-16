@@ -871,3 +871,4 @@
 107.150.103.210 | SSH Brute Force
 66.132.186.183 | SSH Brute Force
 93.157.248.178 | SSH Brute Force
+106.12.74.119 | SSH Brute Force
