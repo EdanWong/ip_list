@@ -880,7 +880,6 @@
 190.8.75.61 | SSH Brute Force
 161.97.162.154 | SSH Brute Force
 37.187.3.25 | SSH Brute Force
-66.132.172.135 | ya
 119.96.82.192 | 62.171.187.208
 176.9.99.214 | SSH Brute Force
 66.132.195.41 | SSH Brute Force
