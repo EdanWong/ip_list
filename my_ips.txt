@@ -888,3 +888,4 @@
 119.96.82.192 | SSH Brute Force
 196.117.4.6 | Malicious Activity
 193.39.208.26 | SSH Brute Force
+72.60.3.2 | SSH Brute Force
