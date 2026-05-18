@@ -885,31 +885,3 @@
 18.210.4.227 | Malicious Activity
 66.132.172.135 | SSH Brute Force
 62.171.187.208 | SSH Brute Force
-119.96.82.192 | SSH Brute Force
-196.117.4.6 | Malicious Activity
-193.39.208.26 | SSH Brute Force
-72.60.3.2 | SSH Brute Force
-200.13.196.1 | SSH Brute Force
-65.108.208.139 | SSH Brute Force
-37.27.119.108 | SSH Brute Force
-20.65.195.47 | Malicious Activity
-20.64.105.215 | Malicious Activity
-174.138.19.180 | Malicious Activity
-207.241.173.116 | Malicious Activity
-104.207.143.23 | Malicious Activity
-65.21.50.132 | SSH Brute Force
-110.166.67.189 | SSH Brute Force
-172.104.46.94 | SSH Brute Force
-171.244.37.97 | SSH Brute Force
-43.173.88.125 | SSH Brute Force
-171.104.143.176 | SSH Brute Force
-199.45.154.147 | SSH Brute Force
-45.130.203.168 | SSH Brute Force
-124.155.125.131 | SSH Brute Force
-45.130.203.144 | SSH Brute Force
-208.84.100.201 | Malicious Activity
-52.34.80.153 | Malicious Activity
-36.151.144.184 | SSH Brute Force
-14.103.117.85 | SSH Brute Force
-185.228.135.197 | SSH Brute Force
-64.190.113.45 | Malicious Activity
