@@ -945,3 +945,4 @@
 40.78.155.180 | SSH Brute Force
 157.230.35.205 | Malicious Activity
 103.157.96.60 | Malicious Activity
+120.196.66.80 | SSH Brute Force
