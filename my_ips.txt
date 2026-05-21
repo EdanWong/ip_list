@@ -978,3 +978,4 @@
 20.29.19.243 | Malicious Activity
 172.245.208.240 | Malicious Activity
 54.147.248.14 | SSH Brute Force
+34.27.227.188 | Malicious Activity
