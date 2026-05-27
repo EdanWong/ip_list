@@ -1094,3 +1094,4 @@
 125.163.72.214 | Malicious Activity (webshell upload)
 151.241.98.44 | Malicious Activity
 47.128.60.22 | Malicious Activity
+106.49.51.60 | Malicious Activity
