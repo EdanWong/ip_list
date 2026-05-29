@@ -1151,3 +1151,4 @@
 35.255.200.109 | Malicious Activity
 157.245.229.198 | Malicious Activity
 103.182.48.52 | SSH Brute Force (Diskominfo Probolinggo)
+34.162.20.73 | Malicious Activity
