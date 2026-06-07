@@ -1405,3 +1405,4 @@
 52.165.88.155 | Malicious Activity
 94.237.67.239 | NetBird
 20.163.60.142 | Malicious Activity
+54.82.5.19 | SSH Brute Force
