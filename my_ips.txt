@@ -1428,3 +1428,38 @@
 23.180.120.140 | Malicious Activity
 176.65.139.124 | Malicious Link IP
 14.46.136.77 | Malicious Link IP
+20.163.6.176 | Malicious Activity
+193.37.32.183 | Malicious Activity
+193.37.32.212 | Malicious Activity
+193.37.32.182 | Malicious Activity
+193.37.32.227 | Malicious Activity
+193.37.32.201 | Malicious Activity
+193.37.32.202 | Malicious Activity
+193.37.32.209 | Malicious Activity
+193.37.32.221 | Malicious Activity
+193.37.32.228 | Malicious Activity
+193.37.32.217 | Malicious Activity
+193.37.32.186 | Malicious Activity
+193.37.32.211 | Malicious Activity
+193.37.32.224 | Malicious Activity
+193.37.32.207 | Malicious Activity
+193.37.32.199 | Malicious Activity
+193.37.32.192 | Malicious Activity
+193.37.32.223 | Malicious Activity
+188.166.235.21 | Malicious Activity
+51.159.125.104 | SSH Brute Force
+46.101.216.224 | SSH Brute Force
+103.184.128.237 | SSH Brute Force
+188.166.248.173 | Malicious Activity
+178.128.16.224 | Malicious Activity
+14.103.127.195 | SSH Brute Force
+20.168.113.228 | Malicious Activity
+20.64.105.0 | Malicious Activity
+192.227.221.227 | Malicious Activity
+139.59.250.85 | Malicious Activity
+196.127.66.24 | Malicious Activity
+160.119.76.13 | SSH Brute Force
+178.128.16.224 | Malicious Activity
+160.119.76.13 | SSH Brute Force
+172.96.161.212 | Malicious Activity
+44.212.21.18 | SSH Brute Force
