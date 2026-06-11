@@ -1463,3 +1463,37 @@
 160.119.76.13 | SSH Brute Force
 172.96.161.212 | Malicious Activity
 44.212.21.18 | SSH Brute Force
+43.112.77.26 | Malicious Activity
+202.155.19.38 | Malicious Activity
+40.124.175.131 | Malicious Activity
+20.15.164.68 | Malicious Activity
+142.248.80.222 | Malicious Activity
+161.35.121.200 | Malicious Activity
+159.203.176.166 | Malicious Activity
+34.74.8.112 | Malicious Activity
+187.172.199.91 | SSH Brute Force
+193.32.248.164 | SSH Brute Force
+34.148.175.41 | Malicious Activity
+34.151.180.164 | Malicious Activity
+34.57.206.103 | Malicious Activity
+34.128.127.91 | Malicious Activity
+34.74.254.46 | Malicious Activity
+136.118.94.193 | Malicious Activity
+34.50.125.192 | Malicious Activity
+143.198.81.75 | Malicious Activity
+193.37.32.208 | Malicious Activity
+193.37.32.215 | Malicious Activity
+34.50.104.10 | Malicious Activity
+34.182.236.4 | Malicious Activity
+193.37.32.213 | Malicious Activity
+193.37.32.225 | Malicious Activity
+193.37.32.222 | Malicious Activity
+193.37.32.219 | Malicious Activity
+193.37.32.213 | Malicious Activity
+193.37.32.205 | Malicious Activity
+193.37.32.222 | Malicious Activity
+193.37.32.197 | Malicious Activity
+193.37.32.204 | Malicious Activity
+159.223.97.43 | Malicious Activity
+35.231.221.127 | Malicious Activity
+202.155.19.38 | Malicious Activity
