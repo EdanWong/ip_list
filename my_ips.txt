@@ -1580,3 +1580,4 @@
 41.141.113.29 | Malicious Activity
 103.30.183.238 | Malicious Link IP
 3.21.167.172 | Malicious Activity
+104.219.232.138 | Malicious Activity
