@@ -1588,3 +1588,4 @@
 185.8.107.155 | Malicious Activity
 185.8.106.37 | Malicious Activity
 185.8.106.92 | Malicious Activity
+185.8.106.145 | Malicious Activity
