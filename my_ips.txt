@@ -1725,3 +1725,4 @@
 136.144.43.42 | Malicious Activity
 136.144.43.53 | Malicious Activity
 136.144.43.45 | Malicious Activity
+136.144.43.43 | Malicious Activity
