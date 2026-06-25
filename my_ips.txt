@@ -1679,3 +1679,4 @@
 194.5.82.28 | Malicious Activity
 194.5.82.166 | Malicious Activity
 194.5.82.27 | Malicious Activity
+194.5.82.53 | Malicious Activity
