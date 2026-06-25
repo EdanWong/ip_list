@@ -1714,3 +1714,4 @@
 172.66.47.160 | Malicious Link IP (Gacor)
 172.66.46.228 | Malicious Link IP (Gacor)
 172.66.45.28 | Malicious Link IP (Gacor)
+172.66.47.65 | Malicious Link IP (Gacor)
