@@ -1710,3 +1710,4 @@
 69.5.0.120 | SSH Brute Force
 36.68.130.234 | Malicious Activity
 65.110.40.194 | Malicious Activity
+172.66.44.96 | Malicious Link IP (Gacor)
