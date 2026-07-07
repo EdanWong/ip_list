@@ -1840,3 +1840,4 @@
 16.79.103.191 | Malicious Activity (BPFD)
 16.28.46.179 | Malicious Activity (BPFD)
 15.240.111.234 | Malicious Activity (BPFD)
+47.76.99.206 | SSH Brute Force
