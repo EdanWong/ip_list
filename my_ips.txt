@@ -1834,3 +1834,4 @@
 15.181.97.183 | Malicious Activity (BPFD)
 141.11.88.120 | Malicious Activity
 54.241.172.106 | Malicious Activity (BPFD)
+16.78.104.171 | Malicious Activity (BPFD)
