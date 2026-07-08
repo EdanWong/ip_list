@@ -1855,3 +1855,4 @@
 15.253.5.235 | Malicious Activity (BPFD)
 15.253.27.130 | Malicious Activity (BPFD)
 15.253.19.64 | Malicious Activity (BPFD)
+13.245.198.59 | Malicious Activity (BPFD)
