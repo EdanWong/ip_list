@@ -1572,7 +1572,6 @@
 20.169.105.52 | Malicious Activity
 65.110.40.204 | Malicious Activity
 103.30.183.233 | Malicious Activity
-45.79.5.11 | Malicious Activity
 207.241.172.187 | Malicious Activity
 47.254.89.149 | Malicious Activity
 160.179.108.182 | Malicious Activity
@@ -1623,7 +1622,6 @@
 62.210.142.161 | SSH Brute Force
 107.155.88.70 | Malicious Activity
 112.86.225.82 | Malicious Activity
-116.179.32.213 | Malicious Activity
 151.245.233.77 | Malicious Activity
 121.229.156.120 | Malicious Activity
 112.86.225.96 | Malicious Activity
