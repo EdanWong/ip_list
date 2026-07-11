@@ -1908,3 +1908,4 @@
 196.219.93.108 | Malicious Activity
 188.36.7.196 | SSH Brute Force
 122.160.80.105 | SSH Brute Force
+179.185.18.67 | SSH Brute Force
