@@ -1920,3 +1920,4 @@
 66.228.62.150 | Malicious Activity
 167.172.207.27 | Malicious Activity
 122.248.227.64 | Malicious Activity (BPFD)
+175.198.18.3 | SSH Brute Force
