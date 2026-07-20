@@ -1762,46 +1762,26 @@
 216.24.219.114 | Malicious Activity
 216.24.219.148 | Malicious Activity
 216.24.219.149 | Malicious Activity
-43.218.233.96 | Malicious Activity (BPFD)
-16.79.117.55 | Malicious Activity (BPFD)
-108.137.12.67 | Malicious Activity (BPFD)
 104.28.251.190 | Malicious Activity
 167.172.134.198 | Malicious Activity
 136.144.19.167 | Malicious Activity
 104.28.219.190 | Malicious Activity
 192.109.217.194 | Malicious Activity
-13.214.192.68 | Malicious Activity (BPFD)
-13.250.115.50 | Malicious Activity (BPFD)
-13.212.104.102 | Malicious Activity (BPFD)
 168.144.43.147 | SSH Brute Force
 197.145.209.210 | Malicious Activity
-8.215.3.79 | Malicious Activity (BPFD)
 102.88.137.80 | SSH Brute Force
 115.191.40.50 | SSH Brute Force
 125.39.179.192 | SSH Brute Force
-108.137.3.180 | Malicious Activity (BPFD)
-16.79.90.127 | Malicious Activity (BPFD)
-43.218.234.8 | Malicious Activity (BPFD)
-16.79.57.109 | Malicious Activity (BPFD)
-43.218.45.1 | Malicious Activity (BPFD)
-108.137.6.57 | Malicious Activity (BPFD)
-108.136.158.108 | Malicious Activity (BPFD)
 136.144.19.136 | Malicious Activity
 136.144.19.144 | Malicious Activity
 136.144.19.170 | Malicious Activity
 193.36.224.1 | Malicious Activity
-16.78.253.109 | Malicious Activity (BPFD)
-108.136.140.93 | Malicious Activity (BPFD)
-43.218.44.64 | Malicious Activity (BPFD)
-43.218.81.24 | Malicious Activity (BPFD)
 188.166.185.173 | Malicious Activity
 72.56.178.121 | Malicious Activity
 37.19.67.11 | Malicious Activity
 136.144.19.143 | Malicious Activity
 136.144.19.169 | Malicious Activity
 135.106.5.170 | Malicious Activity
-38.54.16.241 | Malicious Activity (BPFD)
-198.59.104.4 | Malicious Activity (BPFD)
 105.66.7.215 | Malicious Activity
 20.84.145.62 | Malicious Activity
 31.56.204.231 | SSH Brute Force
@@ -1822,22 +1802,7 @@
 40.114.79.135 | Malicious Activity
 45.76.163.31 | Malicious Activity
 14.103.91.55 | SSH Brute Force
-43.218.113.192 | Malicious Activity (BPFD)
-13.246.32.196 | Malicious Activity (BPFD)
-16.28.67.195 | Malicious Activity (BPFD)
-3.103.1.66 | Malicious Activity (BPFD)
-3.102.155.122 | Malicious Activity (BPFD)
-3.102.147.15 | Malicious Activity (BPFD)
-13.245.92.136 | Malicious Activity (BPFD)
-15.181.97.183 | Malicious Activity (BPFD)
 141.11.88.120 | Malicious Activity
-54.241.172.106 | Malicious Activity (BPFD)
-16.78.104.171 | Malicious Activity (BPFD)
-18.144.240.154 | Malicious Activity (BPFD)
-18.144.3.255 | Malicious Activity (BPFD)
-16.79.103.191 | Malicious Activity (BPFD)
-16.28.46.179 | Malicious Activity (BPFD)
-15.240.111.234 | Malicious Activity (BPFD)
 47.76.99.206 | SSH Brute Force
 176.77.8.56 | SSH Brute Force
 69.164.217.74 | Malicious Activity
@@ -1919,7 +1884,6 @@
 41.59.120.216 | Malicious Activity
 66.228.62.150 | Malicious Activity
 167.172.207.27 | Malicious Activity
-122.248.227.64 | Malicious Activity (BPFD)
 175.198.18.3 | SSH Brute Force
 102.90.103.38 | Malicious Activity
 47.253.152.120 | Malicious Activity
@@ -2078,4 +2042,4 @@
 196.189.124.218 | SSH Brute Force
 182.79.218.101 | SSH Brute Force
 201.218.0.25 | SSH Brute Force
-125.163.127.113 | Malicious Activity (Webshell_Upload)
+125.163.127.113 | Malicious Activity (Try PHP Upload)
