@@ -2044,9 +2044,3 @@
 201.218.0.25 | SSH Brute Force
 125.163.127.113 | Malicious Activity (Try PHP Upload)
 104.248.49.200 | Malicious Activity (Try PHP Upload)
-104.28.218.132 | Malicious Activity (Try PHP Upload)
-104.28.218.133 | Malicious Activity (Try PHP Upload)
-104.28.218.134 | Malicious Activity (Try PHP Upload)
-104.28.218.135 | Malicious Activity (Try PHP Upload)
-104.28.218.136 | Malicious Activity (Try PHP Upload)
-104.28.218.137 | Malicious Activity (Try PHP Upload)
