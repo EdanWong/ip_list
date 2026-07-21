@@ -2076,3 +2076,4 @@
 139.162.18.12 | Malicious Activity
 182.75.197.174 | SSH Brute Force
 223.99.212.58 | SSH Brute Force
+34.201.71.24 | SSH Brute Force
