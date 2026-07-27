@@ -2198,3 +2198,4 @@
 117.211.15.106 | SSH Brute Force
 197.242.170.10 | SSH Brute Force
 111.70.29.158 | SSH Brute Force
+189.52.52.162 | SSH Brute Force
