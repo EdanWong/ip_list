@@ -2224,3 +2224,4 @@
 38.253.224.39 | Malicious Activity
 59.21.97.81 | Malicious Activity
 94.154.43.91 | Malicious Link IP
+192.255.220.6 | Malicious Activity
