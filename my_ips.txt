@@ -2290,3 +2290,4 @@
 38.134.148.20 | IoC Ransomware
 5.252.177.249 | IoC Ransomware
 111.70.10.15 | SSH Brute Force
+170.80.48.27 | Malicious Activity
