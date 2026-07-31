@@ -2270,3 +2270,4 @@
 13.229.54.21 | Malicious Activity
 206.189.225.181 | Malicious Activity
 46.17.42.64 | IoC Ransomware
+176.97.75.205 | IoC Ransomware
