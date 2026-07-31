@@ -2281,3 +2281,4 @@
 193.37.69.162 | IoC Ransomware
 185.106.94.255 | IoC Ransomware
 194.87.85.168 | IoC Ransomware
+94.103.91.246 | IoC Ransomware
