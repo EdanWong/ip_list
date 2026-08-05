@@ -2409,3 +2409,4 @@
 103.178.153.244 | Malicious Activity (SQLi)
 64.225.4.54 | Malicious Activity
 134.122.113.99 | Malicious Activity
+158.140.170.120 | Malicious Activity (XSS)
