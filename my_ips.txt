@@ -2570,7 +2570,6 @@
 142.93.123.223 | Malicious Activity
 203.175.125.114 | Malicious Activity
 159.89.230.128 | Malicious Activity
-45.79.5.11 | Malicious Activity
 34.26.119.226 | Malicious Activity
 103.253.27.36 | Malicious Activity
 64.227.99.35 | Malicious Activity (SQLi)
