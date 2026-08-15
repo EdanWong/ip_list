@@ -2646,3 +2646,4 @@
 103.253.27.166 | Malicious Activity (SQLi)
 157.254.69.231 | Malicious Activity (SQLi)
 138.91.109.177 | Malicious Activity
+104.28.163.35 | Malicious Activity (SQLi)
