@@ -2673,3 +2673,4 @@
 1.247.245.61 | SSH Brute Force
 103.26.136.30 | Malicious Activity
 170.64.197.167 | Malicious Activity (SQLi)
+47.236.59.68 | Malicious Activity
