@@ -2820,3 +2820,4 @@
 91.92.40.108 | SSH Brute Force
 3.87.196.69 | SSH Brute Force
 39.164.91.67 | SSH Brute Force
+23.254.224.69 | SSH Brute Force
