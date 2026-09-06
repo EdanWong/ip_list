@@ -2919,3 +2919,4 @@
 104.64.208.24 | Malicious Activity
 104.64.208.100 | Malicious Activity
 104.64.208.20 | Malicious Activity
+104.64.208.96 | Malicious Activity
