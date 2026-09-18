@@ -3039,3 +3039,4 @@
 103.250.11.116 | SSH Brute Force
 159.65.8.117 | SSH Brute Force
 103.251.113.7 | SSH Brute Force
+102.36.149.1 | Malicious Activity
