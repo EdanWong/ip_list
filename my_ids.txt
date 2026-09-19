@@ -11643,3 +11643,7 @@
 85.239.147.3 Malicious Activity
 149.154.166.110 Malicious Activity (Telegram)
 58.211.144.243 | Malicious Link IP
+8.222.237.137 | Malicious Link IP
+39.105.213.166 | Malicious Link IP
+106.75.132.103 | Malicious Link IP
+27.0.236.139 | Malicious Link IP
