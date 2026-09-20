@@ -3048,3 +3048,4 @@
 58.211.144.243 | Malicious Link IP
 136.0.57.75 | Malicious Activity
 142.181.226.158 | Malicious Activity
+40.124.116.254 | Malicious Activity
