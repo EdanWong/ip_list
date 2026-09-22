@@ -11,3 +11,4 @@
 67.205.178.49 | Malicious Activity
 146.190.77.76 | Malicious Activity
 135.129.144.246 | Malicious Activity
+118.145.196.225 | Malicious Link IP
