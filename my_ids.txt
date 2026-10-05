@@ -14540,3 +14540,4 @@
 172.71.241.5 Malicious Activity (CloudFlare)
 172.71.3.132 Malicious Activity (CloudFlare)
 172.71.8.46 Malicious Activity (CloudFlare)
+104.152.52.234 | Malicious Activity
