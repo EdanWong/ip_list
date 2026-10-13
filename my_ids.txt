@@ -15106,3 +15106,4 @@
 192.169.226.90 | Malicious Activity
 134.185.81.133 | SSH Brute Force
 20.169.49.247 | Malicious Activity
+172.67.157.139 | Malicious Activity (CloudFlare Gacor)
