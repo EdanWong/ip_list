@@ -15108,3 +15108,4 @@
 20.169.49.247 | Malicious Activity
 172.67.157.139 | Malicious Activity (CloudFlare Gacor)
 172.67.201.224 | Malicious Activity (CloudFlare Gacor)
+104.21.50.62 | Malicious Activity (CloudFlare Gacor)
